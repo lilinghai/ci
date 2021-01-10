@@ -1,0 +1,15 @@
+timedCommand
+=============
+
+This is the documentation for **timedCommand**
+
+Using this function
+--------------------
+
+To use this function, supply a command to run.
+**timedCommand** will then execute the command.
+
+To see the output, you can use this call.
+----
+   echo timeCommand.commandOutput
+----
